@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Lyanna",
+    "edad": "2 meses",
+    "tipo": "perra",
+    "color": "husky",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Balerion",
+    "edad": "10 años",
+    "tipo": "gato",
+    "color": "negro",
+    "enfermedad": "fiebre"
+  }
+]
